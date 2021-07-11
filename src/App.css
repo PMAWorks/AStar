@@ -1,0 +1,47 @@
+.App{
+  width: 85%;
+  margin: 0px auto;
+}
+
+.Header{
+  background-color: rgba(0, 0, 255, 0.521);
+  font-family: Nunito;
+  font-size: 30px;
+  color: white;
+  padding: 20px;
+}
+
+.Va{
+  display: inline;
+  font-family: Nunito;
+  font-size: 18px;
+  border-bottom: 1px solid gray;
+  line-height: 30px;
+}
+
+.Va1{
+  display: inline;
+  font-family: Nunito;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.Usels{
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px;
+}
+
+.Path{
+  display: inline;
+  font-family: Nunito;
+  font-size: 30px;
+  color: white;
+  line-height: 100px;
+}
+
+.PathContainer{
+  width: 100%;
+  min-height: 100px;
+  display: block;
+  background-color: rgba(0, 0, 255, 0.521);
+}
